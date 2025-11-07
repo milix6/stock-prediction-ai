@@ -1,5 +1,7 @@
 # AI Stock Prediction — Minimal Backend Example
 
+Simple stock prediction app powered by OpenAI and Polygon.io APIs. This project predicts possible stock trends for educational and experimental purposes only. Not financial advice!
+
 This project demonstrates a minimal server that fetches stock aggregates from Polygon and forwards them to OpenAI to generate a short report.
 
 Files added for the backend:
